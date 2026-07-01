@@ -1,3 +1,5 @@
+> **📌 Note:** This project is provided as a complete Jupyter Notebook with all outputs and visualizations. Due to GitHub's preview limitations for large notebooks, some content may not display correctly. For the best viewing experience, please download `ecommerce-project.ipynb` and open it in Jupyter Notebook, JupyterLab, or VS Code.
+
 # 🛒 E-Commerce Predictive Intelligence using Machine Learning & NLP
 Machine Learning and NLP project for demand prediction, sentiment analysis, recommendation systems, customer segmentation, and personalized marketing.
 
